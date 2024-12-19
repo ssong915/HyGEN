@@ -3,7 +3,7 @@
 ## Authors
 
 - Song Kyung Yu (ssong915@hanyang.ac.kr)
-- Da Eun Lee (ddanable05@hanyang.ac.kr)
+- Da Eun Lee (ddanable@hanyang.ac.kr)
 - Yunyong Ko (yyko@cau.ac.kr)
 - Sang-Wook Kim (wook@hanyang.ac.kr)
 
